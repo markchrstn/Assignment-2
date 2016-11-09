@@ -1,0 +1,167 @@
+.header-size{
+	height: 150px;
+	width: 100%;
+	background-color: yellow;
+}
+
+.logo{
+	height: 100%;
+	float:left;
+	margin-bottom: 2px;
+}
+.ul-size{
+	float:left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: yellow;
+}
+
+li {
+    margin-left: 25px;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+.image-body{
+	clear: both;
+	height: 400px;
+	width: 100%;
+	margin-bottom: 5px;	
+	background-color: lightgray		
+}
+
+.image-body-width{
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 230px;
+    height: 300px;
+}
+
+.img:hover {
+    border: 1px solid #777;
+}
+
+.img img {
+    width: 100%;
+    height: 300px;
+}
+
+.desc {
+
+    text-align: left;
+    background-color: white;
+    border-bottom: 2px black;
+
+}
+
+.extra{
+	
+}
+.SeeWorks{
+	position: relative;
+	background-color: black;
+	color: yellow;
+	margin-left: 400px;
+	margin-right: 400px;	
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: -25px;
+}
+
+.title-body{
+	border-top: 1px solid black;
+	height: 300px;
+	width: 100%;
+	margin-top: -71px;
+	padding-bottom: 20px;
+	background-color: gray;
+}
+
+.titles{
+	padding-top: 75px;
+	margin-left: 60px;
+	width: 250px;
+	float: left;
+}
+
+.img-circle {
+    border-radius: 50%;
+    background-color: yellow;
+    float: left;
+}
+
+.h6-title{
+	padding-top: 30px;
+}
+
+.about-body{
+	width: 100%;
+	height: 300px;
+	padding-top: 12px;
+	padding-bottom: 20px;
+}
+
+.about-body-size{
+	padding-left: 150px;
+	width: 250px;
+	float: left;
+}
+
+.yellow-line{
+	clear: both;
+	background-color: yellow;
+	height: 10px;
+	width: 100%;
+	border-top: 1px solid gray;
+}
+
+.newsletter-body{	
+
+	background-color: #1C1C1C;
+	padding-top: 20px;
+	height: 40px;
+	width: 100%;
+
+}
+
+.footer{
+	
+	width: 100%;
+	height: 400px;
+	background-color: #393939;
+}
+
+.footer-body{
+	padding-top: -100px;
+}
+
+
+h4{
+	color: lightgray;
+}
+
+p{
+	color: darkgray
+}
